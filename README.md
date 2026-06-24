@@ -42,7 +42,7 @@ A landing page apresenta:
 ## 🌐 Acesse o Projeto
 
 🔗 **Projeto Online:**  
-[manuelaaime.github.io](https://manuelaaime.github.io)
+[https://manuelaaime.github.io/pulse.github.io/](https://manuelaaime.github.io/pulse.github.io/)
 
 ## 👩‍💻 Autora
 
@@ -50,16 +50,3 @@ A landing page apresenta:
 
 - GitHub: [@manuelaaime](https://github.com/manuelaaime)
 - Behance: [manuelaaime](https://behance.net/manuelaaime)
-
-## 🛠️ Instalação
-
-Clone o repositório:
-
-```bash
-git clone https://github.com/manuelaaime/manuelaaime.github.io.git
-
-  ## Running the code
-
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
