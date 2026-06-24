@@ -39,19 +39,6 @@ A landing page apresenta:
 - Chamada para inscrição
 - Rodapé institucional
 
-## 🛠️ Instalação
-
-Clone o repositório:
-
-```bash
-git clone https://github.com/manuelaaime/manuelaaime.github.io.git
-
-  ## Running the code
-
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-
 ## 🌐 Acesse o Projeto
 
 🔗 **Projeto Online:**  
@@ -64,4 +51,15 @@ git clone https://github.com/manuelaaime/manuelaaime.github.io.git
 - GitHub: [@manuelaaime](https://github.com/manuelaaime)
 - Behance: [manuelaaime](https://behance.net/manuelaaime)
 
-  
+## 🛠️ Instalação
+
+Clone o repositório:
+
+```bash
+git clone https://github.com/manuelaaime/manuelaaime.github.io.git
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
